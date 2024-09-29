@@ -1,0 +1,14 @@
+E:\VirtualClassManager\VirtualClassManager\obj\Debug\net8.0\VirtualClassManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\VirtualClassManager\VirtualClassManager\obj\Debug\net8.0\VirtualClassManager.AssemblyInfoInputs.cache
+E:\VirtualClassManager\VirtualClassManager\obj\Debug\net8.0\VirtualClassManager.AssemblyInfo.cs
+E:\VirtualClassManager\VirtualClassManager\obj\Debug\net8.0\VirtualClassManager.csproj.CoreCompileInputs.cache
+E:\VirtualClassManager\VirtualClassManager\bin\Debug\net8.0\VirtualClassManager.exe
+E:\VirtualClassManager\VirtualClassManager\bin\Debug\net8.0\VirtualClassManager.deps.json
+E:\VirtualClassManager\VirtualClassManager\bin\Debug\net8.0\VirtualClassManager.runtimeconfig.json
+E:\VirtualClassManager\VirtualClassManager\bin\Debug\net8.0\VirtualClassManager.dll
+E:\VirtualClassManager\VirtualClassManager\bin\Debug\net8.0\VirtualClassManager.pdb
+E:\VirtualClassManager\VirtualClassManager\obj\Debug\net8.0\VirtualClassManager.dll
+E:\VirtualClassManager\VirtualClassManager\obj\Debug\net8.0\refint\VirtualClassManager.dll
+E:\VirtualClassManager\VirtualClassManager\obj\Debug\net8.0\VirtualClassManager.pdb
+E:\VirtualClassManager\VirtualClassManager\obj\Debug\net8.0\VirtualClassManager.genruntimeconfig.cache
+E:\VirtualClassManager\VirtualClassManager\obj\Debug\net8.0\ref\VirtualClassManager.dll
