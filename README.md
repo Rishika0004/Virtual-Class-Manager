@@ -1,5 +1,9 @@
 # Virtual-Class-Manager
 Company's Task
+IN ORDER TO RUN IT THE TERMINAL USE THE FOLLOWING COMMANDS:
+1)dotnet build
+2)dotnet run
+
 
 Program.cs
     Purpose: The entry point of the application.
